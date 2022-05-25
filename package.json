@@ -1,0 +1,17 @@
+{
+  "name": "discordjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Muhammad Sadam",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord.js": "^13.1.0",
+    "dotenv": "^10.0.0",
+    "mongodb": "^4.1.1"
+  }
+}
